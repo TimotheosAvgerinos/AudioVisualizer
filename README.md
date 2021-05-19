@@ -13,7 +13,8 @@
 
 
 ## Visualization
-### 1. Πατοντας ο χρηστης το πρωτο κουμπι στο δεξι panel το *TimeScope Visualizer* του εμφανιζει ενα αλλο παταθυρο και του αποικονιζει το μουσικό κομματι του σε ενα δισδιαστατο γραφημα οπου στον *αξονα X* βρισκετε ο **χρονος(Τ)** σε **seconds** και στον **αξονα Υ** αποικονιζετε το **ευρος(Amplitude)**. ![timeScope1](https://github.com/p15avge/AudioVisualizer/blob/main/timescopeVisualizer1.png)
-### 2. Πατοντας το δευτερο κουμπι *TimeScope Visualizer 2* οι αξονες αποικονιζουν τα ιδια οπως και το πρωτο γραφιμα αλλα με αλλο τροπο. ![timeScope](https://github.com/p15avge/AudioVisualizer/blob/main/timescopeVisualizer2.png)
-### 3. Με το πατιμα του τριτου κουμπιου **Spectrum Visualizer** εμφανιζετε παλι ενα παράθυρο με ενα γραφημα το οποιο εχει στον **αξονα Χ** την **Συχνοτητα(Frequency) σε kΗz** και στον **άξονα Υ** εχει τα **dBm** ![spectrumScope](https://github.com/p15avge/AudioVisualizer/blob/main/spectumVisualizer.png)
+1. Πατοντας ο χρηστης το πρωτο κουμπι στο δεξι panel το *TimeScope Visualizer* του εμφανιζει ενα αλλο παταθυρο και του αποικονιζει το μουσικό κομματι του σε ενα δισδιαστατο γραφημα οπου στον *αξονα X* βρισκετε ο **χρονος(Τ)** σε **seconds** και στον **αξονα Υ** αποικονιζετε το **ευρος(Amplitude)**. ![timeScope1](https://github.com/p15avge/AudioVisualizer/blob/main/timescopeVisualizer1.png)
+2. Πατοντας το δευτερο κουμπι *TimeScope Visualizer 2* οι αξονες αποικονιζουν τα ιδια οπως και το πρωτο γραφιμα αλλα με αλλο τροπο.
+  ![timeScope](https://github.com/p15avge/AudioVisualizer/blob/main/timescopeVisualizer2.png)
+4. Με το πατιμα του τριτου κουμπιου **Spectrum Visualizer** εμφανιζετε παλι ενα παράθυρο με ενα γραφημα το οποιο εχει στον **αξονα Χ** την **Συχνοτητα(Frequency) σε kΗz** και στον **άξονα Υ** εχει τα **dBm** ![spectrumScope](https://github.com/p15avge/AudioVisualizer/blob/main/spectumVisualizer.png)
 
