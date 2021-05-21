@@ -6,7 +6,7 @@
 Η εφαρμογή δημιουγήθηκε με το εργαλείο **MATLAB** μέσω του Audio Toolbox και των συναρτήσεων του όπως οι *timescope, dsp.Timescope, dsp.dsp.SpectrumAnalyzer* για την γραφική απεικόνιση των αρχείων *.mp3* και οι συναρτήσεις *dsp.AudioFileReader και audioDeviceWriter* για το διάβασμα του αρχείου και την εγγραφή τους στην συσκευή εξόδου ήχου του Η/Υ. Η εφαρμογή διαθέτει και ένα κουμπί *play/pause* το οποίο δημιουργήθηκε με την συνάρτηση *audioplayer*.
   
 ## UI 
-### 1. Ανοίγοντας ο χρήστης την εφαρμογή βρίσκεται εδω ![Αρχική οθόνη](https://github.com/p15avge/AudioVisualizer/blob/main/UI.png)
+### 1. Ανοίγοντας ο χρήστης την εφαρμογή βρίσκεται εδώ ![Αρχική οθόνη](https://github.com/p15avge/AudioVisualizer/blob/main/UI.png)
 ### 2. Πατώντας το κουμπί **Choose an .mp3 file** η εφαρμογή του ανοίγει ενα *drop-down menu* όπου ο χρήστης μπορεί να επιλέξει μόνο .mp3 αρχεία. ![Drop-down menu](https://github.com/p15avge/AudioVisualizer/blob/main/drop-down%20menu.png)
 ### 3. Όταν ο χρήστης επιλέξει το μουσικό κομμάτι που θέλει εμφανίζεται το μονοπάτι(path) του αρχείου στην περιοχή κάτω απο το κουμπί που πάτησε προηγουμένως και ακόμα μπορεί να το ακούσει πατώντας το κουμπί που γράφει *play/pause* ![ΤextArea](https://github.com/p15avge/AudioVisualizer/blob/main/text-area.png)
 
