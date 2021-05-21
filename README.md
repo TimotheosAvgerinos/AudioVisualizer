@@ -3,7 +3,7 @@
 
 
 ## Γενικές Πληροφορίες
-Η εφαρμογή δημιουγήθηκε με το εργαλείο **MATLAB** μέσω του Audio Toolbox και των συναρτήσεων του όπως οι *timescope, dsp.Timescope, dsp.dsp.SpectrumAnalyzer* για την γραφική απεικόνιση των αρχείων *.mp3* και οι συναρτήσεις *dsp.AudioFileReader και audioDeviceWriter* για το διάβασμα του αρχείου και την εγγραφή τους στην συσκευή εξόδου ήχου του Η/Υ. Η εφαρμογή διαθέτει και ένα κουμπί *play/pause* το οποίο δημιουργήθηκε με την συνάρτηση *audioplayer*.
+Η εφαρμογή δημιουγήθηκε με το εργαλείο **MATLAB** μέσω του Audio Toolbox και των συναρτήσεων του όπως οι *timescope, dsp.Timescope, dsp.SpectrumAnalyzer* για την γραφική απεικόνιση των αρχείων *.mp3* και οι συναρτήσεις *dsp.AudioFileReader και audioDeviceWriter* για το διάβασμα του αρχείου και την εγγραφή τους στην συσκευή εξόδου ήχου του Η/Υ. Η εφαρμογή διαθέτει και ένα κουμπί *play/pause* το οποίο δημιουργήθηκε με την συνάρτηση *audioplayer*.
   
 ## UI 
 ### 1. Ανοίγοντας ο χρήστης την εφαρμογή βρίσκεται εδώ ![Αρχική οθόνη](https://github.com/p15avge/AudioVisualizer/blob/main/UI.png)
